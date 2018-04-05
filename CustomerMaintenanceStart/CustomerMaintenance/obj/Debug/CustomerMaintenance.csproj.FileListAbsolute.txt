@@ -1,0 +1,48 @@
+C:\C# 2015\Book applications\Chapter 24\CustomerMaintenance\CustomerMaintenance\bin\Debug\CustomerMaintenance.exe.config
+C:\C# 2015\Book applications\Chapter 24\CustomerMaintenance\CustomerMaintenance\bin\Debug\MMABooks.mdf
+C:\C# 2015\Book applications\Chapter 24\CustomerMaintenance\CustomerMaintenance\bin\Debug\MMABooks_log.ldf
+C:\C# 2015\Book applications\Chapter 24\CustomerMaintenance\CustomerMaintenance\bin\Debug\CustomerMaintenance.exe
+C:\C# 2015\Book applications\Chapter 24\CustomerMaintenance\CustomerMaintenance\bin\Debug\CustomerMaintenance.pdb
+C:\C# 2015\Book applications\Chapter 24\CustomerMaintenance\CustomerMaintenance\bin\Debug\EntityFramework.dll
+C:\C# 2015\Book applications\Chapter 24\CustomerMaintenance\CustomerMaintenance\bin\Debug\EntityFramework.SqlServer.dll
+C:\C# 2015\Book applications\Chapter 24\CustomerMaintenance\CustomerMaintenance\bin\Debug\EntityFramework.xml
+C:\C# 2015\Book applications\Chapter 24\CustomerMaintenance\CustomerMaintenance\bin\Debug\EntityFramework.SqlServer.xml
+C:\C# 2015\Book applications\Chapter 24\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.csprojResolveAssemblyReference.cache
+C:\C# 2015\Book applications\Chapter 24\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmCustomerMaintenance.resources
+C:\C# 2015\Book applications\Chapter 24\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.Properties.Resources.resources
+C:\C# 2015\Book applications\Chapter 24\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.csproj.GenerateResource.Cache
+C:\C# 2015\Book applications\Chapter 24\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.exe
+C:\C# 2015\Book applications\Chapter 24\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.pdb
+C:\C# 2015\Book applications\Chapter 24\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmAddModifyCustomer.resources
+C:\C# 2015\Exercise starts\Chapter 24\CustomerMaintenance\CustomerMaintenance\bin\Debug\CustomerMaintenance.exe.config
+C:\C# 2015\Exercise starts\Chapter 24\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.exe
+C:\C# 2015\Exercise starts\Chapter 24\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.pdb
+C:\C# 2015\Exercise starts\Chapter 24\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.csprojResolveAssemblyReference.cache
+C:\C# 2015\Exercise starts\Chapter 24\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmAddModifyCustomer.resources
+C:\C# 2015\Exercise starts\Chapter 24\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmCustomerMaintenance.resources
+C:\C# 2015\Exercise starts\Chapter 24\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.Properties.Resources.resources
+C:\C# 2015\Exercise starts\Chapter 24\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.csproj.GenerateResource.Cache
+C:\Courses\CS234CSharp\Demos\Lab 7\CustomerMaintenanceStart\CustomerMaintenance\bin\Debug\CustomerMaintenance.exe.config
+C:\Courses\CS234CSharp\Demos\Lab 7\CustomerMaintenanceStart\CustomerMaintenance\obj\Debug\CustomerMaintenance.exe
+C:\Courses\CS234CSharp\Demos\Lab 7\CustomerMaintenanceStart\CustomerMaintenance\obj\Debug\CustomerMaintenance.pdb
+C:\Courses\CS234CSharp\Demos\Lab 7\CustomerMaintenanceStart\CustomerMaintenance\obj\Debug\CustomerMaintenance.csprojResolveAssemblyReference.cache
+C:\Courses\CS234CSharp\Demos\Lab 7\CustomerMaintenanceStart\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmAddModifyCustomer.resources
+C:\Courses\CS234CSharp\Demos\Lab 7\CustomerMaintenanceStart\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmCustomerMaintenance.resources
+C:\Courses\CS234CSharp\Demos\Lab 7\CustomerMaintenanceStart\CustomerMaintenance\obj\Debug\CustomerMaintenance.Properties.Resources.resources
+C:\Courses\CS234CSharp\Demos\Lab 7\CustomerMaintenanceStart\CustomerMaintenance\obj\Debug\CustomerMaintenance.csproj.GenerateResource.Cache
+C:\Courses\CS234CSharp\Demos\Lab 7\CustomerMaintenanceStart\CustomerMaintenance\bin\Debug\CustomerMaintenance.exe
+C:\Courses\CS234CSharp\Demos\Lab 7\CustomerMaintenanceStart\CustomerMaintenance\bin\Debug\CustomerMaintenance.pdb
+C:\Courses\CS234CSharp\Demos\Lab 7\CustomerMaintenanceStart\CustomerMaintenance\bin\Debug\EntityFramework.dll
+C:\Courses\CS234CSharp\Demos\Lab 7\CustomerMaintenanceStart\CustomerMaintenance\bin\Debug\EntityFramework.SqlServer.dll
+C:\Courses\CS234CSharp\Demos\Lab 7\CustomerMaintenanceStart\CustomerMaintenance\bin\Debug\EntityFramework.xml
+C:\Courses\CS234CSharp\Demos\Lab 7\CustomerMaintenanceStart\CustomerMaintenance\bin\Debug\EntityFramework.SqlServer.xml
+C:\Courses\CS234CSharp\Demos\Lab 7\CustomerMaintenanceStart\CustomerMaintenance\obj\Debug\CustomerMaintenance.Form1.resources
+C:\Users\AAkin_000\Desktop\CS234N\CustomerMaintenanceStart\CustomerMaintenance\bin\Debug\CustomerMaintenance.exe.config
+C:\Users\AAkin_000\Desktop\CS234N\CustomerMaintenanceStart\CustomerMaintenance\obj\Debug\CustomerMaintenance.exe
+C:\Users\AAkin_000\Desktop\CS234N\CustomerMaintenanceStart\CustomerMaintenance\obj\Debug\CustomerMaintenance.pdb
+C:\Users\AAkin_000\Desktop\CS234N\CustomerMaintenanceStart\CustomerMaintenance\obj\Debug\CustomerMaintenance.csprojResolveAssemblyReference.cache
+C:\Users\AAkin_000\Desktop\CS234N\CustomerMaintenanceStart\CustomerMaintenance\obj\Debug\CustomerMaintenance.Form1.resources
+C:\Users\AAkin_000\Desktop\CS234N\CustomerMaintenanceStart\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmAddModifyCustomer.resources
+C:\Users\AAkin_000\Desktop\CS234N\CustomerMaintenanceStart\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmCustomerMaintenance.resources
+C:\Users\AAkin_000\Desktop\CS234N\CustomerMaintenanceStart\CustomerMaintenance\obj\Debug\CustomerMaintenance.Properties.Resources.resources
+C:\Users\AAkin_000\Desktop\CS234N\CustomerMaintenanceStart\CustomerMaintenance\obj\Debug\CustomerMaintenance.csproj.GenerateResource.Cache

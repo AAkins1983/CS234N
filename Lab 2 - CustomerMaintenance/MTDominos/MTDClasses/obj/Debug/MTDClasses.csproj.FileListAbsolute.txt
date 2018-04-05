@@ -1,0 +1,15 @@
+c:\users\c#user\documents\visual studio 2015\Projects\MTDominos\MTDClasses\obj\Debug\MTDClasses.csprojResolveAssemblyReference.cache
+C:\Users\AAkin_000\Desktop\MTDominos\MTDClasses\obj\Debug\MTDClasses.csprojResolveAssemblyReference.cache
+C:\Users\AAkin_000\Desktop\MTDominos\MTDClasses\bin\Debug\MTDClasses.dll
+C:\Users\AAkin_000\Desktop\MTDominos\MTDClasses\bin\Debug\MTDClasses.pdb
+C:\Users\AAkin_000\Desktop\MTDominos\MTDClasses\obj\Debug\MTDClasses.dll
+C:\Users\AAkin_000\Desktop\MTDominos\MTDClasses\obj\Debug\MTDClasses.pdb
+C:\Users\AAkin_000\Desktop\CS234N\Lab 0 - Mexican Train Dominos\MTDominos\MTDClasses\obj\Debug\MTDClasses.dll
+C:\Users\AAkin_000\Desktop\CS234N\Lab 0 - Mexican Train Dominos\MTDominos\MTDClasses\obj\Debug\MTDClasses.pdb
+C:\Users\AAkin_000\Desktop\CS234N\Lab 0 - Mexican Train Dominos\MTDominos\MTDClasses\bin\Debug\MTDClasses.dll
+C:\Users\AAkin_000\Desktop\CS234N\Lab 0 - Mexican Train Dominos\MTDominos\MTDClasses\bin\Debug\MTDClasses.pdb
+C:\Users\AAkin_000\Desktop\CS234N\Lab 0 - Mexican Train Dominos\MTDominos\MTDClasses\obj\Debug\MTDClasses.csprojResolveAssemblyReference.cache
+C:\Users\AAkin_000\Desktop\CS234N\Lab 2 - CustomerMaintenance\MTDominos\MTDClasses\bin\Debug\MTDClasses.dll
+C:\Users\AAkin_000\Desktop\CS234N\Lab 2 - CustomerMaintenance\MTDominos\MTDClasses\bin\Debug\MTDClasses.pdb
+C:\Users\AAkin_000\Desktop\CS234N\Lab 2 - CustomerMaintenance\MTDominos\MTDClasses\obj\Debug\MTDClasses.dll
+C:\Users\AAkin_000\Desktop\CS234N\Lab 2 - CustomerMaintenance\MTDominos\MTDClasses\obj\Debug\MTDClasses.pdb

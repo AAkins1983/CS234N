@@ -1,0 +1,3 @@
+C:\Users\C#User\Desktop\MTDominos\MTDUnitTests\obj\Debug\MTDUnitTests.vbprojResolveAssemblyReference.cache
+C:\Users\C#User\Desktop\MTDominos\MTDUnitTests\obj\Debug\MTDUnitTests.Resources.resources
+C:\Users\C#User\Desktop\MTDominos\MTDUnitTests\obj\Debug\MTDUnitTests.vbproj.GenerateResource.Cache

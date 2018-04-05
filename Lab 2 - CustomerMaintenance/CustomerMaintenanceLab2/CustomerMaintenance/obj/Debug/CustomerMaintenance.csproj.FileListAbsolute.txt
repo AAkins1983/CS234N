@@ -1,0 +1,24 @@
+C:\Courses\CS233CSharp\Demos\Classes\ClassesDemo\CustomerMaintenanceStart\CustomerMaintenance\bin\Debug\CustomerMaintenance.exe
+C:\Courses\CS233CSharp\Demos\Classes\ClassesDemo\CustomerMaintenanceStart\CustomerMaintenance\bin\Debug\CustomerMaintenance.pdb
+C:\Courses\CS233CSharp\Demos\Classes\ClassesDemo\CustomerMaintenanceStart\CustomerMaintenance\bin\Debug\CustomerMaintenanceClasses.dll
+C:\Courses\CS233CSharp\Demos\Classes\ClassesDemo\CustomerMaintenanceStart\CustomerMaintenance\bin\Debug\CustomerMaintenanceClasses.pdb
+C:\Courses\CS233CSharp\Demos\Classes\ClassesDemo\CustomerMaintenanceStart\CustomerMaintenance\obj\Debug\CustomerMaintenance.csprojResolveAssemblyReference.cache
+C:\Courses\CS233CSharp\Demos\Classes\ClassesDemo\CustomerMaintenanceStart\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmAddCustomer.resources
+C:\Courses\CS233CSharp\Demos\Classes\ClassesDemo\CustomerMaintenanceStart\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmCustomers.resources
+C:\Courses\CS233CSharp\Demos\Classes\ClassesDemo\CustomerMaintenanceStart\CustomerMaintenance\obj\Debug\CustomerMaintenance.Properties.Resources.resources
+C:\Courses\CS233CSharp\Demos\Classes\ClassesDemo\CustomerMaintenanceStart\CustomerMaintenance\obj\Debug\CustomerMaintenance.csproj.GenerateResource.Cache
+C:\Courses\CS233CSharp\Demos\Classes\ClassesDemo\CustomerMaintenanceStart\CustomerMaintenance\obj\Debug\CustomerMaintenance.exe
+C:\Courses\CS233CSharp\Demos\Classes\ClassesDemo\CustomerMaintenanceStart\CustomerMaintenance\obj\Debug\CustomerMaintenance.pdb
+C:\Courses\CS234CSharp\Demos\Lab 1\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.exe
+C:\Courses\CS234CSharp\Demos\Lab 1\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.pdb
+C:\Users\AAkin_000\Desktop\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.exe
+C:\Users\AAkin_000\Desktop\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.pdb
+C:\Users\AAkin_000\Desktop\CustomerMaintenance\CustomerMaintenance\bin\Debug\CustomerMaintenance.exe
+C:\Users\AAkin_000\Desktop\CustomerMaintenance\CustomerMaintenance\bin\Debug\CustomerMaintenance.pdb
+C:\Users\AAkin_000\Desktop\CustomerMaintenance\CustomerMaintenance\bin\Debug\CustomerMaintenanceClasses.dll
+C:\Users\AAkin_000\Desktop\CustomerMaintenance\CustomerMaintenance\bin\Debug\CustomerMaintenanceClasses.pdb
+C:\Users\AAkin_000\Desktop\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.csprojResolveAssemblyReference.cache
+C:\Users\AAkin_000\Desktop\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmAddCustomer.resources
+C:\Users\AAkin_000\Desktop\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmCustomers.resources
+C:\Users\AAkin_000\Desktop\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.Properties.Resources.resources
+C:\Users\AAkin_000\Desktop\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.csproj.GenerateResource.Cache

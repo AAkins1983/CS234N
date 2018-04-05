@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MTDClasses", "MTDClasses\MTDClasses.csproj", "{5A7EA31A-3E90-4D96-9B7F-8F20BA1553E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MTDUnitTests", "MTDUnitTests\MTDUnitTests.csproj", "{7B2260BA-13A7-44C0-8527-6826ECA6595B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A7EA31A-3E90-4D96-9B7F-8F20BA1553E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A7EA31A-3E90-4D96-9B7F-8F20BA1553E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A7EA31A-3E90-4D96-9B7F-8F20BA1553E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A7EA31A-3E90-4D96-9B7F-8F20BA1553E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B2260BA-13A7-44C0-8527-6826ECA6595B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B2260BA-13A7-44C0-8527-6826ECA6595B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B2260BA-13A7-44C0-8527-6826ECA6595B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B2260BA-13A7-44C0-8527-6826ECA6595B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

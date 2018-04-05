@@ -1,0 +1,11 @@
+C:\Users\AAkin_000\Desktop\CS234N\Lab 6\FrameworkExampleEventSQL\EventClasses\bin\Debug\EventClasses.dll
+C:\Users\AAkin_000\Desktop\CS234N\Lab 6\FrameworkExampleEventSQL\EventClasses\bin\Debug\EventClasses.pdb
+C:\Users\AAkin_000\Desktop\CS234N\Lab 6\FrameworkExampleEventSQL\EventClasses\bin\Debug\EventDBClasses.dll
+C:\Users\AAkin_000\Desktop\CS234N\Lab 6\FrameworkExampleEventSQL\EventClasses\bin\Debug\EventPropsClasses.dll
+C:\Users\AAkin_000\Desktop\CS234N\Lab 6\FrameworkExampleEventSQL\EventClasses\bin\Debug\ToolsCSharp.dll
+C:\Users\AAkin_000\Desktop\CS234N\Lab 6\FrameworkExampleEventSQL\EventClasses\bin\Debug\EventDBClasses.pdb
+C:\Users\AAkin_000\Desktop\CS234N\Lab 6\FrameworkExampleEventSQL\EventClasses\bin\Debug\EventPropsClasses.pdb
+C:\Users\AAkin_000\Desktop\CS234N\Lab 6\FrameworkExampleEventSQL\EventClasses\bin\Debug\ToolsCSharp.pdb
+C:\Users\AAkin_000\Desktop\CS234N\Lab 6\FrameworkExampleEventSQL\EventClasses\obj\Debug\EventClasses.csprojResolveAssemblyReference.cache
+C:\Users\AAkin_000\Desktop\CS234N\Lab 6\FrameworkExampleEventSQL\EventClasses\obj\Debug\EventClasses.dll
+C:\Users\AAkin_000\Desktop\CS234N\Lab 6\FrameworkExampleEventSQL\EventClasses\obj\Debug\EventClasses.pdb

@@ -1,0 +1,28 @@
+C:\Courses\CS233CSharp\Demos\Classes\ClassesDemo\CustomerMaintenanceStart\CustomerMaintenanceClasses\bin\Debug\CustomerMaintenanceClasses.dll
+C:\Courses\CS233CSharp\Demos\Classes\ClassesDemo\CustomerMaintenanceStart\CustomerMaintenanceClasses\bin\Debug\CustomerMaintenanceClasses.pdb
+C:\Courses\CS233CSharp\Demos\Classes\ClassesDemo\CustomerMaintenanceStart\CustomerMaintenanceClasses\obj\Debug\CustomerMaintenanceClasses.dll
+C:\Courses\CS233CSharp\Demos\Classes\ClassesDemo\CustomerMaintenanceStart\CustomerMaintenanceClasses\obj\Debug\CustomerMaintenanceClasses.pdb
+C:\Courses\CS233CSharp\Demos\Classes\ClassesDemo\CustomerMaintenanceStart\CustomerMaintenanceClasses\obj\Debug\CustomerMaintenanceClasses.csprojResolveAssemblyReference.cache
+C:\Courses\CS234CSharp\Demos\Lab 1\CustomerMaintenance\CustomerMaintenanceClasses\obj\Debug\CustomerMaintenanceClasses.csprojResolveAssemblyReference.cache
+C:\Courses\CS234CSharp\Demos\Lab 1\CustomerMaintenance\CustomerMaintenanceClasses\obj\Debug\CustomerMaintenanceClasses.dll
+C:\Courses\CS234CSharp\Demos\Lab 1\CustomerMaintenance\CustomerMaintenanceClasses\obj\Debug\CustomerMaintenanceClasses.pdb
+C:\Courses\CS234CSharp\Demos\Lab 1\CustomerMaintenance\CustomerMaintenanceClasses\bin\Debug\CustomerMaintenanceClasses.dll
+C:\Courses\CS234CSharp\Demos\Lab 1\CustomerMaintenance\CustomerMaintenanceClasses\bin\Debug\CustomerMaintenanceClasses.pdb
+C:\Users\AAkin_000\Desktop\CustomerMaintenance\CustomerMaintenanceClasses\obj\Debug\CustomerMaintenanceClasses.csprojResolveAssemblyReference.cache
+C:\Users\AAkin_000\Desktop\CustomerMaintenance\CustomerMaintenanceClasses\obj\Debug\CustomerMaintenanceClasses.dll
+C:\Users\AAkin_000\Desktop\CustomerMaintenance\CustomerMaintenanceClasses\obj\Debug\CustomerMaintenanceClasses.pdb
+C:\Users\AAkin_000\Desktop\CustomerMaintenance\CustomerMaintenanceClasses\bin\Debug\CustomerMaintenanceClasses.dll
+C:\Users\AAkin_000\Desktop\CustomerMaintenance\CustomerMaintenanceClasses\bin\Debug\CustomerMaintenanceClasses.pdb
+C:\Users\AAkin_000\Desktop\CS234N\CustomerMaintenance - Copy\CustomerMaintenanceClasses\bin\Debug\CustomerMaintenanceClasses.dll
+C:\Users\AAkin_000\Desktop\CS234N\CustomerMaintenance - Copy\CustomerMaintenanceClasses\bin\Debug\CustomerMaintenanceClasses.pdb
+C:\Users\AAkin_000\Desktop\CS234N\CustomerMaintenance - Copy\CustomerMaintenanceClasses\obj\Debug\CustomerMaintenanceClasses.csprojResolveAssemblyReference.cache
+C:\Users\AAkin_000\Desktop\CS234N\CustomerMaintenance - Copy\CustomerMaintenanceClasses\obj\Debug\CustomerMaintenanceClasses.dll
+C:\Users\AAkin_000\Desktop\CS234N\CustomerMaintenance - Copy\CustomerMaintenanceClasses\obj\Debug\CustomerMaintenanceClasses.pdb
+C:\Users\AAkin_000\Desktop\CS234N\Lab 2 - CustomerMaintenance\CustomerMaintenanceLab2\CustomerMaintenanceClasses\bin\Debug\CustomerMaintenanceClasses.dll
+C:\Users\AAkin_000\Desktop\CS234N\Lab 2 - CustomerMaintenance\CustomerMaintenanceLab2\CustomerMaintenanceClasses\bin\Debug\CustomerMaintenanceClasses.pdb
+C:\Users\AAkin_000\Desktop\CS234N\Lab 2 - CustomerMaintenance\CustomerMaintenanceLab2\CustomerMaintenanceClasses\bin\Debug\nunit.framework.dll
+C:\Users\AAkin_000\Desktop\CS234N\Lab 2 - CustomerMaintenance\CustomerMaintenanceLab2\CustomerMaintenanceClasses\bin\Debug\nunit.framework.xml
+C:\Users\AAkin_000\Desktop\CS234N\Lab 2 - CustomerMaintenance\CustomerMaintenanceLab2\CustomerMaintenanceClasses\obj\Debug\CustomerMaintenanceClasses.csprojResolveAssemblyReference.cache
+C:\Users\AAkin_000\Desktop\CS234N\Lab 2 - CustomerMaintenance\CustomerMaintenanceLab2\CustomerMaintenanceClasses\obj\Debug\CustomerMaintenanceClasses.csproj.CoreCompileInputs.cache
+C:\Users\AAkin_000\Desktop\CS234N\Lab 2 - CustomerMaintenance\CustomerMaintenanceLab2\CustomerMaintenanceClasses\obj\Debug\CustomerMaintenanceClasses.dll
+C:\Users\AAkin_000\Desktop\CS234N\Lab 2 - CustomerMaintenance\CustomerMaintenanceLab2\CustomerMaintenanceClasses\obj\Debug\CustomerMaintenanceClasses.pdb

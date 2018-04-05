@@ -1,0 +1,3 @@
+C:\Users\C#User\Desktop\MTDominos\MTDClasses\obj\Debug\MTDClasses.vbprojResolveAssemblyReference.cache
+C:\Users\C#User\Desktop\MTDominos\MTDClasses\obj\Debug\MTDClasses.Resources.resources
+C:\Users\C#User\Desktop\MTDominos\MTDClasses\obj\Debug\MTDClasses.vbproj.GenerateResource.Cache

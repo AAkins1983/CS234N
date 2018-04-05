@@ -1,0 +1,29 @@
+C:\Courses\CS233CSharp\Demos\Classes\Card\CardClasses\bin\Debug\CardClasses.dll
+C:\Courses\CS233CSharp\Demos\Classes\Card\CardClasses\bin\Debug\CardClasses.pdb
+C:\Courses\CS233CSharp\Demos\Classes\Card\CardClasses\obj\Debug\CardClasses.dll
+C:\Courses\CS233CSharp\Demos\Classes\Card\CardClasses\obj\Debug\CardClasses.pdb
+C:\Courses\CS233CSharp\Demos\Inheritance\Card\CardClasses\bin\Debug\CardClasses.dll
+C:\Courses\CS233CSharp\Demos\Inheritance\Card\CardClasses\bin\Debug\CardClasses.pdb
+C:\Courses\CS233CSharp\Demos\Inheritance\Card\CardClasses\obj\Debug\CardClasses.csprojResolveAssemblyReference.cache
+C:\Courses\CS233CSharp\Demos\Inheritance\Card\CardClasses\obj\Debug\CardClasses.dll
+C:\Courses\CS233CSharp\Demos\Inheritance\Card\CardClasses\obj\Debug\CardClasses.pdb
+C:\Courses\CS234CSharp\Demos\Lab 1\BlackJack\CardClasses\bin\Debug\CardClasses.dll
+C:\Courses\CS234CSharp\Demos\Lab 1\BlackJack\CardClasses\bin\Debug\CardClasses.pdb
+C:\Courses\CS234CSharp\Demos\Lab 1\BlackJack\CardClasses\obj\Debug\CardClasses.csprojResolveAssemblyReference.cache
+C:\Courses\CS234CSharp\Demos\Lab 1\BlackJack\CardClasses\obj\Debug\CardClasses.dll
+C:\Courses\CS234CSharp\Demos\Lab 1\BlackJack\CardClasses\obj\Debug\CardClasses.pdb
+C:\Users\AAkin_000\Desktop\BlackJack\CardClasses\bin\Debug\CardClasses.dll
+C:\Users\AAkin_000\Desktop\BlackJack\CardClasses\bin\Debug\CardClasses.pdb
+C:\Users\AAkin_000\Desktop\BlackJack\CardClasses\obj\Debug\CardClasses.csprojResolveAssemblyReference.cache
+C:\Users\AAkin_000\Desktop\BlackJack\CardClasses\obj\Debug\CardClasses.dll
+C:\Users\AAkin_000\Desktop\BlackJack\CardClasses\obj\Debug\CardClasses.pdb
+C:\Users\AAkin_000\Desktop\CS234N\BlackJack\CardClasses\bin\Debug\CardClasses.dll
+C:\Users\AAkin_000\Desktop\CS234N\BlackJack\CardClasses\bin\Debug\CardClasses.pdb
+C:\Users\AAkin_000\Desktop\CS234N\BlackJack\CardClasses\obj\Debug\CardClasses.csprojResolveAssemblyReference.cache
+C:\Users\AAkin_000\Desktop\CS234N\BlackJack\CardClasses\obj\Debug\CardClasses.dll
+C:\Users\AAkin_000\Desktop\CS234N\BlackJack\CardClasses\obj\Debug\CardClasses.pdb
+C:\Users\AAkin_000\Desktop\CS234N\Lab 3 -\BlackJack - Copy\CardClasses\obj\Debug\CardClasses.csprojResolveAssemblyReference.cache
+C:\Users\AAkin_000\Desktop\CS234N\Lab 3 -\BlackJack - Copy\CardClasses\obj\Debug\CardClasses.dll
+C:\Users\AAkin_000\Desktop\CS234N\Lab 3 -\BlackJack - Copy\CardClasses\bin\Debug\CardClasses.dll
+C:\Users\AAkin_000\Desktop\CS234N\Lab 3 -\BlackJack - Copy\CardClasses\bin\Debug\CardClasses.pdb
+C:\Users\AAkin_000\Desktop\CS234N\Lab 3 -\BlackJack - Copy\CardClasses\obj\Debug\CardClasses.pdb

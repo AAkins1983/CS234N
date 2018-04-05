@@ -1,0 +1,45 @@
+C:\Courses\CS233CSharp\Demos\Classes\Card\CardTest\bin\Debug\CardTest.exe.config
+C:\Courses\CS233CSharp\Demos\Classes\Card\CardTest\bin\Debug\CardTest.exe
+C:\Courses\CS233CSharp\Demos\Classes\Card\CardTest\bin\Debug\CardTest.pdb
+C:\Courses\CS233CSharp\Demos\Classes\Card\CardTest\bin\Debug\CardClasses.dll
+C:\Courses\CS233CSharp\Demos\Classes\Card\CardTest\bin\Debug\CardClasses.pdb
+C:\Courses\CS233CSharp\Demos\Classes\Card\CardTest\obj\Debug\CardTest.csprojResolveAssemblyReference.cache
+C:\Courses\CS233CSharp\Demos\Classes\Card\CardTest\obj\Debug\CardTest.exe
+C:\Courses\CS233CSharp\Demos\Classes\Card\CardTest\obj\Debug\CardTest.pdb
+C:\Courses\CS233CSharp\Demos\Inheritance\Card\CardTest\bin\Debug\CardTest.exe.config
+C:\Courses\CS233CSharp\Demos\Inheritance\Card\CardTest\bin\Debug\CardTest.exe
+C:\Courses\CS233CSharp\Demos\Inheritance\Card\CardTest\bin\Debug\CardTest.pdb
+C:\Courses\CS233CSharp\Demos\Inheritance\Card\CardTest\bin\Debug\CardClasses.dll
+C:\Courses\CS233CSharp\Demos\Inheritance\Card\CardTest\bin\Debug\CardClasses.pdb
+C:\Courses\CS233CSharp\Demos\Inheritance\Card\CardTest\obj\Debug\CardTest.csprojResolveAssemblyReference.cache
+C:\Courses\CS233CSharp\Demos\Inheritance\Card\CardTest\obj\Debug\CardTest.exe
+C:\Courses\CS233CSharp\Demos\Inheritance\Card\CardTest\obj\Debug\CardTest.pdb
+C:\Courses\CS234CSharp\Demos\Lab 1\BlackJack\CardTest\bin\Debug\CardTest.exe.config
+C:\Courses\CS234CSharp\Demos\Lab 1\BlackJack\CardTest\obj\Debug\CardTest.exe
+C:\Courses\CS234CSharp\Demos\Lab 1\BlackJack\CardTest\obj\Debug\CardTest.pdb
+C:\Users\AAkin_000\Desktop\BlackJack\CardTest\bin\Debug\CardTest.exe.config
+C:\Users\AAkin_000\Desktop\BlackJack\CardTest\obj\Debug\CardTest.exe
+C:\Users\AAkin_000\Desktop\BlackJack\CardTest\obj\Debug\CardTest.pdb
+C:\Users\AAkin_000\Desktop\BlackJack\CardTest\bin\Debug\CardTest.exe
+C:\Users\AAkin_000\Desktop\BlackJack\CardTest\bin\Debug\CardTest.pdb
+C:\Users\AAkin_000\Desktop\BlackJack\CardTest\bin\Debug\CardClasses.dll
+C:\Users\AAkin_000\Desktop\BlackJack\CardTest\bin\Debug\CardClasses.pdb
+C:\Users\AAkin_000\Desktop\BlackJack\CardTest\obj\Debug\CardTest.csprojResolveAssemblyReference.cache
+C:\Users\AAkin_000\Desktop\CS234N\BlackJack\CardTest\bin\Debug\CardTest.exe.config
+C:\Users\AAkin_000\Desktop\CS234N\BlackJack\CardTest\obj\Debug\CardTest.exe
+C:\Users\AAkin_000\Desktop\CS234N\BlackJack\CardTest\obj\Debug\CardTest.pdb
+C:\Users\AAkin_000\Desktop\CS234N\BlackJack\CardTest\bin\Debug\CardTest.exe
+C:\Users\AAkin_000\Desktop\CS234N\BlackJack\CardTest\bin\Debug\CardTest.pdb
+C:\Users\AAkin_000\Desktop\CS234N\BlackJack\CardTest\bin\Debug\CardClasses.dll
+C:\Users\AAkin_000\Desktop\CS234N\BlackJack\CardTest\bin\Debug\CardClasses.pdb
+C:\Users\AAkin_000\Desktop\CS234N\BlackJack\CardTest\obj\Debug\CardTest.csprojResolveAssemblyReference.cache
+C:\Users\AAkin_000\Desktop\CS234N\Lab 1 - ProductMaintenance\BlackJack\CardTest\bin\Debug\CardTest.exe.config
+C:\Users\AAkin_000\Desktop\CS234N\Lab 1 - ProductMaintenance\BlackJack\CardTest\obj\Debug\CardTest.exe
+C:\Users\AAkin_000\Desktop\CS234N\Lab 1 - ProductMaintenance\BlackJack\CardTest\obj\Debug\CardTest.pdb
+C:\Users\AAkin_000\Desktop\CS234N\Lab 1 - ProductMaintenance\BlackJack\CardTest\bin\Debug\CardTest.exe
+C:\Users\AAkin_000\Desktop\CS234N\Lab 1 - ProductMaintenance\BlackJack\CardTest\bin\Debug\CardTest.pdb
+C:\Users\AAkin_000\Desktop\CS234N\Lab 1 - ProductMaintenance\BlackJack\CardTest\bin\Debug\CardClasses.dll
+C:\Users\AAkin_000\Desktop\CS234N\Lab 1 - ProductMaintenance\BlackJack\CardTest\bin\Debug\nunit.framework.dll
+C:\Users\AAkin_000\Desktop\CS234N\Lab 1 - ProductMaintenance\BlackJack\CardTest\bin\Debug\CardClasses.pdb
+C:\Users\AAkin_000\Desktop\CS234N\Lab 1 - ProductMaintenance\BlackJack\CardTest\bin\Debug\nunit.framework.xml
+C:\Users\AAkin_000\Desktop\CS234N\Lab 1 - ProductMaintenance\BlackJack\CardTest\obj\Debug\CardTest.csprojResolveAssemblyReference.cache

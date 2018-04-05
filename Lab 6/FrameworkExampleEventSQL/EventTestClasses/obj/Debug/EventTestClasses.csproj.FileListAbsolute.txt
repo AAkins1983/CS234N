@@ -1,0 +1,15 @@
+C:\Users\AAkin_000\Desktop\CS234N\Lab 6\FrameworkExampleEventSQL\EventTestClasses\bin\Debug\EventTestClasses.dll
+C:\Users\AAkin_000\Desktop\CS234N\Lab 6\FrameworkExampleEventSQL\EventTestClasses\bin\Debug\EventTestClasses.pdb
+C:\Users\AAkin_000\Desktop\CS234N\Lab 6\FrameworkExampleEventSQL\EventTestClasses\bin\Debug\EventClasses.dll
+C:\Users\AAkin_000\Desktop\CS234N\Lab 6\FrameworkExampleEventSQL\EventTestClasses\bin\Debug\EventDBClasses.dll
+C:\Users\AAkin_000\Desktop\CS234N\Lab 6\FrameworkExampleEventSQL\EventTestClasses\bin\Debug\EventPropsClasses.dll
+C:\Users\AAkin_000\Desktop\CS234N\Lab 6\FrameworkExampleEventSQL\EventTestClasses\bin\Debug\nunit.framework.dll
+C:\Users\AAkin_000\Desktop\CS234N\Lab 6\FrameworkExampleEventSQL\EventTestClasses\bin\Debug\ToolsCSharp.dll
+C:\Users\AAkin_000\Desktop\CS234N\Lab 6\FrameworkExampleEventSQL\EventTestClasses\bin\Debug\EventClasses.pdb
+C:\Users\AAkin_000\Desktop\CS234N\Lab 6\FrameworkExampleEventSQL\EventTestClasses\bin\Debug\EventDBClasses.pdb
+C:\Users\AAkin_000\Desktop\CS234N\Lab 6\FrameworkExampleEventSQL\EventTestClasses\bin\Debug\EventPropsClasses.pdb
+C:\Users\AAkin_000\Desktop\CS234N\Lab 6\FrameworkExampleEventSQL\EventTestClasses\bin\Debug\ToolsCSharp.pdb
+C:\Users\AAkin_000\Desktop\CS234N\Lab 6\FrameworkExampleEventSQL\EventTestClasses\bin\Debug\nunit.framework.xml
+C:\Users\AAkin_000\Desktop\CS234N\Lab 6\FrameworkExampleEventSQL\EventTestClasses\obj\Debug\EventTestClasses.csprojResolveAssemblyReference.cache
+C:\Users\AAkin_000\Desktop\CS234N\Lab 6\FrameworkExampleEventSQL\EventTestClasses\obj\Debug\EventTestClasses.dll
+C:\Users\AAkin_000\Desktop\CS234N\Lab 6\FrameworkExampleEventSQL\EventTestClasses\obj\Debug\EventTestClasses.pdb

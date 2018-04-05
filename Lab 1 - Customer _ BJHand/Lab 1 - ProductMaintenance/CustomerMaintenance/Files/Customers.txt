@@ -1,0 +1,3 @@
+John|Smith|johnsmith@gmail.com
+Jane|Doe|janedoe@yahoo.com
+Mari|Good|goodm@lanecc.edu
